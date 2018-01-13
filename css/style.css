@@ -1,0 +1,48 @@
+p a{
+  color:black;
+}
+h5 a{
+  color:black;
+}
+
+a img:hover{
+  opacity:0.75;
+}
+
+a:hover{
+  color:black;
+}
+
+img:hover{
+  opacity:0.75;
+}
+
+.addgutter{
+  margin-bottom:30px;
+}
+
+.page{
+  min-height: 1000px !important;
+}
+
+
+.img-gallery{
+  padding: 15px;
+}
+
+
+.vertpadding{
+  min-height:25px;
+}
+
+.vertpadding4{
+  min-height: 100px;
+}
+
+.vertpadding8{
+  min-height:200px;
+}
+#portfolio-grid{
+  max-width:1500px;
+  margin: auto;
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<head>  
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+  <div class="container container-fluid">
+
+      <div class="vertpadding">
+      </div>
+      <div class="row no-gutters">
+        <div class="col-md-2">
+          <h5><a href="index.html">eric tang</a></h5>
+        </div>
+        <div class="col-md-5">
+        </div>
+        
+          <div class="col-md-5 text-md-right"> 
+            <h5>  
+              <a href="portfolio.html"> img</a> / <a href="text.html">txt</a> / <a href="info.html">nfo</a> / <a href="etc.html">etc</a>  
+            </h5>
+          </div>
+          
+        </div>
+        <div class="vertpadding">
+        </div>
+      </div>
+
+
+  
+<div class="container container-fluid text-center">
+  <div class="row no-gutters">
+  
+  <div class="col-lg-4 col-md-6">
+
+    <img src="img/stolebeach.jpg" class="img-fluid img-gallery">
+  </div>
+  <div class="col-lg-4 col-md-6">
+
+    <img src="img/masks.jpg" class="img-fluid img-gallery">
+  </div>
+  
+  <div class="col-lg-4 col-md-6">
+    <img src="img/white.png" class="img-fluid img-gallery">
+  </div>
+  <div class="col-lg-4 col-md-6 ">
+    <img src="img/pedestal.jpg" class="img-fluid img-gallery">
+  </div>
+
+  
+    <div class="col-lg-4 col-md-6">
+      <img src="img/tpih.png" class="img-fluid img-gallery">
+    </div>
+    
+    <div class="col-lg-4 col-md-6">
+      <img src="img/conversion.png" class="img-fluid img-gallery">
+    </div>
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/truth.png" class="img-fluid img-gallery">
+    </div>
+    
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/thisistang.png" class="img-fluid img-gallery">
+      
+    </div>
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/genderstudies.png" class="img-fluid img-gallery">
+    </div>
+
+
+    
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/trashonly.png" class="img-fluid img-gallery">
+    </div>
+    
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/peep.png" class="img-fluid img-gallery">
+    </div>
+
+    
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/screwu.png" class="img-fluid img-gallery">
+    </div>
+
+    <div class="col-lg-4 col-md-6 ">
+      <img src="img/face2face.png" class="img-fluid img-gallery">
+    </div>
+
+</div>
+<div class="vertpadding4">
+</div>
+
+</div>
+</body>
